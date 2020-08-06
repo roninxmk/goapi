@@ -1,0 +1,6 @@
+https://auth0.com/blog/authentication-in-golang/
+https://tutorialedge.net/golang/creating-restful-api-with-golang/
+https://medium.com/the-andela-way/build-a-restful-json-api-with-golang-85a83420c9da
+https://www.zupzup.org/go-http-file-upload-download/
+https://github.com/zupzup/golang-http-file-upload-download/blob/master/main.go
+
